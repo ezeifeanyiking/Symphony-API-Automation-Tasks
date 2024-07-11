@@ -1,4 +1,4 @@
-# Symphony-Automation-Tasks
+# Symphony-API-Automation-Tasks
 
 This project contains API tests for "https://api.publicapis.org/entries"
 
