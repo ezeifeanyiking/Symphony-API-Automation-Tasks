@@ -7,11 +7,11 @@ This project contains API tests for "https://api.publicapis.org/entries"
 API Test should do the following:
 
 1. Call https://api.publicapis.org/entries
-   2 Read the response, find all objects with property “Category: Authentication and
+2. Read the response, find all objects with property “Category: Authentication and
    Authorization”
-2. Compare, count, and verify the number of objects where the property above
+3. Compare, count, and verify the number of objects where the property above
    appears
-3. Finally print found objects to console
+4. Finally print found objects to console
 
 ## Getting Started
 
