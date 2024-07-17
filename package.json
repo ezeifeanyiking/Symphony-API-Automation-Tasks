@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npx playwright test",
-    "test:e2e:ci": "npx playwright test tests/e2e/verifySortingOrder.spec.ts --project=chromium --headed false"
+    "test:e2e:ci": "npx playwright test tests/e2e/verifySortingOrder.spec.ts --project=chromium --headless"
   },
   "keywords": [],
   "author": "",
